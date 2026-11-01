@@ -1,0 +1,1 @@
+function e(e){let t=e.replace(/[\s)\]'"’”.,!?…]+$/u,``),n=t.charCodeAt(t.length-1);if(n>=44032&&n<=55203)return(n-44032)%28;let r=t.slice(-1).toLowerCase();return`178`.includes(r)?8:`036`.includes(r)?1:`lr`.includes(r)?8:+!!`mn`.includes(r)}function t(t,n){let r=e(t),[i,a]=n.split(`/`);return n===`으로/로`?t+(r===0||r===8?a:i):n===`와/과`?t+(r===0?`와`:`과`):t+(r===0?a:i)}export{t};

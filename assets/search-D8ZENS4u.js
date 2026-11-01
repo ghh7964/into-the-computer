@@ -1,0 +1,1 @@
+import{t as e}from"./placeholder-BCS9KP8F.js";var t=e({id:`search`,layer:[`책상`,`주소록 프로그램`,`서버 방`],title:`탐색 체험 준비 중`,note:`주소록 서버 방에서 이름을 찾는 방법을 곧 겨뤄 볼 수 있어요.`,with3d:!0,links:[{label:`책상으로 돌아가기`,path:`/`}]});export{t as default};

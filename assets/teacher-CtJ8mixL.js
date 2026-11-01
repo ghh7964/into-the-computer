@@ -1,0 +1,1 @@
+import{t as e}from"./placeholder-BCS9KP8F.js";var t=e({id:`teacher`,layer:[`교사용 안내`],title:`교사용 안내 준비 중`,note:`차시 흐름과 발문, 예상 오개념을 정리한 안내가 들어올 자리예요.`,with3d:!1,links:[{label:`책상으로 돌아가기`,path:`/`}]});export{t as default};
