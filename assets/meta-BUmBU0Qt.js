@@ -1,0 +1,1 @@
+var e=[`predict`,`play`,`compare`,`principle`];function t(e){return`교과서 ${e.page}${e.label?` ${e.label}`:``}`}export{t as n,e as t};

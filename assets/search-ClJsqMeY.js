@@ -1,1 +1,0 @@
-import{t as e}from"./placeholder-BCS9KP8F.js";var t=e({id:`search-games`,layer:[`책상`,`주소록 프로그램`,`서버 방`,`탐색 게임`],title:`탐색 게임 준비 중`,note:`서랍을 열어 보며 컴퓨터와 탐색 횟수를 겨룰 거예요.`,with3d:!1,links:[{label:`책상으로 돌아가기`,path:`/`}]});export{t as default};

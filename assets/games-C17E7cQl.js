@@ -1,0 +1,1 @@
+var e=e=>`#/search/games?game=${e}`;function t(e){let t=e.indexOf(`?`);return t<0?null:new URLSearchParams(e.slice(t+1)).get(`game`)}export{e as n,t};

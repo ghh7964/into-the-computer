@@ -1,0 +1,1 @@
+function e(){let e=parseFloat(getComputedStyle(document.documentElement).getPropertyValue(`--ui-scale`));return e>0?e:1}export{e as t};
