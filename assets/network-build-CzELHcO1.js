@@ -1,0 +1,1 @@
+import{t as e}from"./home-tS6Lg8Il.js";import{t}from"./shell-vFpeVeOO.js";var n=t({id:`network-build`,layer:[`책상`,`네트워크`,`배치 게임`],game:e});export{n as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./home-DKwi_GTY.js";import{t}from"./shell-DIZfsZwQ.js";var n=t({id:`network-build`,layer:[`책상`,`네트워크`,`배치 게임`],game:e});export{n as default};
